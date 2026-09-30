@@ -1,0 +1,16 @@
+{
+  "track": "advanced",
+  "baseline": "FedAvg (naive) under attack",
+  "baseline_test_f1": 0.0511,
+  "method": "Shield: clip + server check",
+  "method_test_f1": 0.7017,
+  "gain": 0.6506,
+  "three_seed_baseline_mean_std": [
+    0.21103333333333332,
+    0.16941911213188304
+  ],
+  "three_seed_method_mean_std": [
+    0.7464000000000001,
+    0.031908097195957434
+  ]
+}
